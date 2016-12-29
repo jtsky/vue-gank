@@ -3,4 +3,4 @@
 ###效果如下
 
 #vue2.0版  https://jtsky.github.io/vue-gank.html
-#react版   https://jtsky.github.io
+#react版   https://jtsky.github.io/react-gank.html
